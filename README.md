@@ -21,6 +21,7 @@ I'm a Full Stack Software Engineer passionate about building modern, scalable we
 # 🧮 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=soufiane77-eng&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=soufiane77-eng&theme=merko&hide_border=false)<br/>
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=soufiane77-eng&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
