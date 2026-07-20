@@ -9,7 +9,8 @@
 <br>
 
 ---
-
+# 🧑‍💻 About Me
+I'm a Full Stack Software Engineer passionate about building modern, scalable web applications. I specialize in creating high-performance digital experiences, writing clean code, and contributing to open-source projects while supporting fellow developers.
 [![](https://komarev.com/ghpvc/?username=soufiane77-eng&icon=0&color=3)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/soufian_e007?igsh=MWczd3VheWVvOHl5dQ==) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@midnightdev33?_r=1&_t=ZS-98CDneo7dv2) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/themidnightddev?s=11) 
