@@ -9,7 +9,7 @@
 <br>
 
 ---
-# 🖥️🌍 About Me
+# 🌍👨‍💻 About Me
 I'm a Full Stack Software Engineer passionate about building modern, scalable web applications. I specialize in creating high-performance digital experiences, writing clean code, and contributing to open-source projects while supporting fellow developers.
 [![](https://komarev.com/ghpvc/?username=soufiane77-eng&icon=0&color=3)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
