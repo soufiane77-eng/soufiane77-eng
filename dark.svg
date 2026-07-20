@@ -109,122 +109,35 @@
   <g transform="translate(30, 30)">
     <!-- ASCII portrait - line by line reveal -->
     <g font-family="'Courier New', Courier, monospace" font-size="15" fill="url(#asciiGrad)" filter="url(#glowText)">
-      <text x="30" y="28" opacity="0">
-        ....????JJJJ????....
-        <animate attributeName="opacity" from="0" to="1" begin="0.5s" dur="0.3s" fill="freeze"/>
-      </text>
-      <text x="30" y="46" opacity="0">
-        ..?JYYYYYYYYYYYYYJ?..
-        <animate attributeName="opacity" from="0" to="1" begin="0.8s" dur="0.3s" fill="freeze"/>
-      </text>
-      <text x="30" y="64" opacity="0">
-        .?YYYYYYYYYYYYYYYYY?.
-        <animate attributeName="opacity" from="0" to="1" begin="1.1s" dur="0.3s" fill="freeze"/>
-      </text>
-      <text x="30" y="82" opacity="0">
-        ?YYYYY@@@@@@@YYYYY?
-        <animate attributeName="opacity" from="0" to="1" begin="1.4s" dur="0.3s" fill="freeze"/>
-      </text>
-      <text x="30" y="100" opacity="0">
-        ?YYY@@@@@@@@@@@YYY?
-        <animate attributeName="opacity" from="0" to="1" begin="1.7s" dur="0.3s" fill="freeze"/>
-      </text>
-      <text x="30" y="118" opacity="0">
-        ?YY@@@@@@@@@@@@@YY?
-        <animate attributeName="opacity" from="0" to="1" begin="2.0s" dur="0.3s" fill="freeze"/>
-      </text>
-      <text x="30" y="136" opacity="0">
-        ?YY@@@@.  .@@@@YY?
-        <animate attributeName="opacity" from="0" to="1" begin="2.3s" dur="0.3s" fill="freeze"/>
-      </text>
-      <text x="30" y="154" opacity="0">
-        ?YY@@@@.  .@@@@YY?
-        <animate attributeName="opacity" from="0" to="1" begin="2.6s" dur="0.3s" fill="freeze"/>
-      </text>
-      <text x="30" y="172" opacity="0">
-        .?Y@@@@@@@@@@@@@Y?.
-        <animate attributeName="opacity" from="0" to="1" begin="2.9s" dur="0.3s" fill="freeze"/>
-      </text>
-      <text x="30" y="190" opacity="0">
-        .?Y@@@Y@@@@@Y@@@Y?.
-        <animate attributeName="opacity" from="0" to="1" begin="3.2s" dur="0.3s" fill="freeze"/>
-      </text>
-      <text x="30" y="208" opacity="0">
-        ..?Y@@Y.@@@@.Y@@Y?..
-        <animate attributeName="opacity" from="0" to="1" begin="3.5s" dur="0.3s" fill="freeze"/>
-      </text>
-      <text x="30" y="226" opacity="0">
-        ...?Y@@@@@@@@Y?...
-        <animate attributeName="opacity" from="0" to="1" begin="3.8s" dur="0.3s" fill="freeze"/>
-      </text>
-      <text x="30" y="244" opacity="0">
-        ....?Y@@@@@@Y?....
-        <animate attributeName="opacity" from="0" to="1" begin="4.1s" dur="0.3s" fill="freeze"/>
-      </text>
-      <text x="30" y="262" opacity="0">
-        .....?Y@@@@Y?.....
-        <animate attributeName="opacity" from="0" to="1" begin="4.4s" dur="0.3s" fill="freeze"/>
-      </text>
-      <text x="30" y="280" opacity="0">
-        ......?Y@@Y?......
-        <animate attributeName="opacity" from="0" to="1" begin="4.7s" dur="0.3s" fill="freeze"/>
-      </text>
-      <text x="30" y="298" opacity="0">
-        .......?YY?.......
-        <animate attributeName="opacity" from="0" to="1" begin="5.0s" dur="0.3s" fill="freeze"/>
-      </text>
-      <text x="30" y="316" opacity="0">
-        ........JJ........
-        <animate attributeName="opacity" from="0" to="1" begin="5.3s" dur="0.3s" fill="freeze"/>
-      </text>
-      <text x="30" y="334" opacity="0">
-        ......?Y@@Y?......
-        <animate attributeName="opacity" from="0" to="1" begin="5.6s" dur="0.3s" fill="freeze"/>
-      </text>
-      <text x="30" y="352" opacity="0">
-        .....?Y@@@@Y?.....
-        <animate attributeName="opacity" from="0" to="1" begin="5.9s" dur="0.3s" fill="freeze"/>
-      </text>
-      <text x="30" y="370" opacity="0">
-        ....?Y@@@@@@Y?....
-        <animate attributeName="opacity" from="0" to="1" begin="6.2s" dur="0.3s" fill="freeze"/>
-      </text>
-      <text x="30" y="388" opacity="0">
-        ...?Y@@@@@@@@Y?...
-        <animate attributeName="opacity" from="0" to="1" begin="6.5s" dur="0.3s" fill="freeze"/>
-      </text>
-      <text x="30" y="406" opacity="0">
-        ..?Y@@@@@@@@@@Y?..
-        <animate attributeName="opacity" from="0" to="1" begin="6.8s" dur="0.3s" fill="freeze"/>
-      </text>
-      <text x="30" y="424" opacity="0">
-        ..?Y@@@@@@@@@@Y?..
-        <animate attributeName="opacity" from="0" to="1" begin="7.1s" dur="0.3s" fill="freeze"/>
-      </text>
-      <text x="30" y="442" opacity="0">
-        ...?Y@@@@@@@@Y?...
-        <animate attributeName="opacity" from="0" to="1" begin="7.4s" dur="0.3s" fill="freeze"/>
-      </text>
-      <text x="30" y="460" opacity="0">
-        ....?Y@@@@@@Y?....
-        <animate attributeName="opacity" from="0" to="1" begin="7.7s" dur="0.3s" fill="freeze"/>
-      </text>
-      <text x="30" y="478" opacity="0">
-        .....?Y@@@@Y?.....
-        <animate attributeName="opacity" from="0" to="1" begin="8.0s" dur="0.3s" fill="freeze"/>
-      </text>
-      <text x="30" y="496" opacity="0">
-        ......?Y@@Y?......
-        <animate attributeName="opacity" from="0" to="1" begin="8.3s" dur="0.3s" fill="freeze"/>
-      </text>
-      <text x="30" y="514" opacity="0">
-        .......?YY?.......
-        <animate attributeName="opacity" from="0" to="1" begin="8.6s" dur="0.3s" fill="freeze"/>
-      </text>
-      <text x="30" y="532" opacity="0">
-        ........JJ........
-        <animate attributeName="opacity" from="0" to="1" begin="8.9s" dur="0.3s" fill="freeze"/>
-      </text>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
     </g>
 
     <!-- Floating ASCII effect -->
@@ -248,33 +161,19 @@
     <circle cx="20" cy="18" r="5" fill="#FF5F57"/>
     <circle cx="38" cy="18" r="5" fill="#FEBC2E"/>
     <circle cx="56" cy="18" r="5" fill="#28C840"/>
-    <text x="330" y="22" text-anchor="middle" font-family="'SF Mono', 'Fira Code', monospace" font-size="11" fill="#64748B">terminal — zsh</text>
+    
 
     <!-- Greeting -->
-    <text x="24" y="76" font-family="'SF Mono', 'Fira Code', monospace" font-size="14" fill="#64748B">Hi</text>
-    <text x="48" y="76" font-size="14">👋
-      <animate attributeName="font-size" values="14;16;14" dur="2s" repeatCount="indefinite"/>
-    </text>
-    <text x="24" y="102" font-family="'SF Mono', 'Fira Code', monospace" font-size="22" fill="#F8FAFC" font-weight="bold">I'm <tspan fill="url(#accent)">Soufiane</tspan></text>
+    
+    
+    
 
     <!-- Animated typing roles -->
-    <text x="24" y="140" font-family="'SF Mono', 'Fira Code', monospace" font-size="13" fill="#22D3EE" filter="url(#glow)">&gt; </text>
-    <text x="44" y="140" font-family="'SF Mono', 'Fira Code', monospace" font-size="13" fill="#F8FAFC" opacity="0">
-      Full Stack Developer
-      <animate attributeName="opacity" values="0;1;1;0" dur="12s" repeatCount="indefinite" keyTimes="0;0.05;0.22;0.27"/>
-    </text>
-    <text x="44" y="140" font-family="'SF Mono', 'Fira Code', monospace" font-size="13" fill="#F8FAFC" opacity="0">
-      Open Source Contributor
-      <animate attributeName="opacity" values="0;0;1;1;0;0" dur="12s" repeatCount="indefinite" keyTimes="0;0.25;0.3;0.5;0.55;0.6"/>
-    </text>
-    <text x="44" y="140" font-family="'SF Mono', 'Fira Code', monospace" font-size="13" fill="#F8FAFC" opacity="0">
-      UI Engineer
-      <animate attributeName="opacity" values="0;0;1;1;0;0" dur="12s" repeatCount="indefinite" keyTimes="0;0.55;0.6;0.78;0.83;0.88"/>
-    </text>
-    <text x="44" y="140" font-family="'SF Mono', 'Fira Code', monospace" font-size="13" fill="#F8FAFC" opacity="0">
-      AI Enthusiast
-      <animate attributeName="opacity" values="0;0;1;1" dur="12s" repeatCount="indefinite" keyTimes="0;0.83;0.88;1"/>
-    </text>
+    
+    
+    
+    
+    
 
     <!-- Typing cursor for roles -->
     <rect x="44" y="129" width="8" height="15" fill="#22D3EE" opacity="0.8" filter="url(#glow)">
@@ -283,36 +182,18 @@
 
     <!-- Info items -->
     <g font-family="'SF Mono', 'Fira Code', monospace" font-size="12" fill="#94A3B8">
-      <text x="24" y="180" opacity="0">
-        📍  Morocco
-        <animate attributeName="opacity" from="0" to="1" begin="3s" dur="0.5s" fill="freeze"/>
-      </text>
-      <text x="24" y="202" opacity="0">
-        🎓  ESI — École Supérieure d'Informatique
-        <animate attributeName="opacity" from="0" to="1" begin="3.4s" dur="0.5s" fill="freeze"/>
-      </text>
-      <text x="24" y="224" opacity="0">
-        🔨  Building Modern Web Apps
-        <animate attributeName="opacity" from="0" to="1" begin="3.8s" dur="0.5s" fill="freeze"/>
-      </text>
-      <text x="24" y="246" opacity="0">
-        🌐  Portfolio
-        <animate attributeName="opacity" from="0" to="1" begin="4.2s" dur="0.5s" fill="freeze"/>
-      </text>
-      <text x="24" y="268" opacity="0">
-        ✉️  Contact
-        <animate attributeName="opacity" from="0" to="1" begin="4.6s" dur="0.5s" fill="freeze"/>
-      </text>
+      
+      
+      
+      
+      
     </g>
 
     <!-- Separator line -->
     <line x1="24" y1="288" x2="636" y2="288" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
 
     <!-- Skills section -->
-    <text x="24" y="316" font-family="'SF Mono', 'Fira Code', monospace" font-size="11" fill="#64748B" opacity="0">
-      // SKILLS
-      <animate attributeName="opacity" from="0" to="1" begin="5s" dur="0.3s" fill="freeze"/>
-    </text>
+    
 
     <!-- Skill pills row 1 -->
     <g opacity="0">
@@ -320,32 +201,32 @@
       <rect x="24" y="330" width="62" height="26" rx="13" fill="rgba(34,211,238,0.1)" stroke="rgba(34,211,238,0.3)" stroke-width="1">
         <animate attributeName="stroke-opacity" values="0.3;0.6;0.3" dur="3s" repeatCount="indefinite"/>
       </rect>
-      <text x="55" y="347" text-anchor="middle" font-family="'SF Mono', monospace" font-size="11" fill="#22D3EE">React</text>
+      
 
       <rect x="96" y="330" width="72" height="26" rx="13" fill="rgba(124,58,237,0.1)" stroke="rgba(124,58,237,0.3)" stroke-width="1">
         <animate attributeName="stroke-opacity" values="0.3;0.6;0.3" dur="3.5s" repeatCount="indefinite"/>
       </rect>
-      <text x="132" y="347" text-anchor="middle" font-family="'SF Mono', monospace" font-size="11" fill="#7C3AED">Next.js</text>
+      
 
       <rect x="178" y="330" width="72" height="26" rx="13" fill="rgba(16,185,129,0.1)" stroke="rgba(16,185,129,0.3)" stroke-width="1">
         <animate attributeName="stroke-opacity" values="0.3;0.6;0.3" dur="2.8s" repeatCount="indefinite"/>
       </rect>
-      <text x="214" y="347" text-anchor="middle" font-family="'SF Mono', monospace" font-size="11" fill="#10B981">Node.js</text>
+      
 
       <rect x="260" y="330" width="88" height="26" rx="13" fill="rgba(34,211,238,0.1)" stroke="rgba(34,211,238,0.3)" stroke-width="1">
         <animate attributeName="stroke-opacity" values="0.3;0.6;0.3" dur="3.2s" repeatCount="indefinite"/>
       </rect>
-      <text x="304" y="347" text-anchor="middle" font-family="'SF Mono', monospace" font-size="11" fill="#22D3EE">TypeScript</text>
+      
 
       <rect x="358" y="330" width="78" height="26" rx="13" fill="rgba(124,58,237,0.1)" stroke="rgba(124,58,237,0.3)" stroke-width="1">
         <animate attributeName="stroke-opacity" values="0.3;0.6;0.3" dur="3.8s" repeatCount="indefinite"/>
       </rect>
-      <text x="397" y="347" text-anchor="middle" font-family="'SF Mono', monospace" font-size="11" fill="#7C3AED">Tailwind</text>
+      
 
       <rect x="446" y="330" width="68" height="26" rx="13" fill="rgba(16,185,129,0.1)" stroke="rgba(16,185,129,0.3)" stroke-width="1">
         <animate attributeName="stroke-opacity" values="0.3;0.6;0.3" dur="2.5s" repeatCount="indefinite"/>
       </rect>
-      <text x="480" y="347" text-anchor="middle" font-family="'SF Mono', monospace" font-size="11" fill="#10B981">Python</text>
+      
     </g>
 
     <!-- Skill pills row 2 -->
@@ -354,27 +235,27 @@
       <rect x="24" y="366" width="68" height="26" rx="13" fill="rgba(34,211,238,0.1)" stroke="rgba(34,211,238,0.3)" stroke-width="1">
         <animate attributeName="stroke-opacity" values="0.3;0.6;0.3" dur="3.1s" repeatCount="indefinite"/>
       </rect>
-      <text x="58" y="383" text-anchor="middle" font-family="'SF Mono', monospace" font-size="11" fill="#22D3EE">Docker</text>
+      
 
       <rect x="102" y="366" width="98" height="26" rx="13" fill="rgba(124,58,237,0.1)" stroke="rgba(124,58,237,0.3)" stroke-width="1">
         <animate attributeName="stroke-opacity" values="0.3;0.6;0.3" dur="3.6s" repeatCount="indefinite"/>
       </rect>
-      <text x="151" y="383" text-anchor="middle" font-family="'SF Mono', monospace" font-size="11" fill="#7C3AED">PostgreSQL</text>
+      
 
       <rect x="210" y="366" width="52" height="26" rx="13" fill="rgba(16,185,129,0.1)" stroke="rgba(16,185,129,0.3)" stroke-width="1">
         <animate attributeName="stroke-opacity" values="0.3;0.6;0.3" dur="2.9s" repeatCount="indefinite"/>
       </rect>
-      <text x="236" y="383" text-anchor="middle" font-family="'SF Mono', monospace" font-size="11" fill="#10B981">AWS</text>
+      
 
       <rect x="272" y="366" width="44" height="26" rx="13" fill="rgba(34,211,238,0.1)" stroke="rgba(34,211,238,0.3)" stroke-width="1">
         <animate attributeName="stroke-opacity" values="0.3;0.6;0.3" dur="3.3s" repeatCount="indefinite"/>
       </rect>
-      <text x="294" y="383" text-anchor="middle" font-family="'SF Mono', monospace" font-size="11" fill="#22D3EE">Git</text>
+      
 
       <rect x="326" y="366" width="52" height="26" rx="13" fill="rgba(124,58,237,0.1)" stroke="rgba(124,58,237,0.3)" stroke-width="1">
         <animate attributeName="stroke-opacity" values="0.3;0.6;0.3" dur="3.4s" repeatCount="indefinite"/>
       </rect>
-      <text x="352" y="383" text-anchor="middle" font-family="'SF Mono', monospace" font-size="11" fill="#7C3AED">Figma</text>
+      
     </g>
 
     <!-- Separator -->
@@ -424,4 +305,4 @@
 
   <!-- Glass reflection overlay -->
   <rect width="1180" height="305" rx="16" fill="url(#glassReflect)" opacity="0.3"/>
-</svg>
+<image href="soso.jpg" x="835" y="120" width="220" height="220" preserveAspectRatio="xMidYMid slice" clip-path="circle(110px at 110px 110px)"/></svg>
