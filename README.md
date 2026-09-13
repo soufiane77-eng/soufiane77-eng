@@ -10,6 +10,10 @@
     width="160" height="160" style="border-radius: 50%;" alt="Soufiane Dev"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soufiane77-eng/soufiane77-eng/master/assets/profile-banner.webp" width="60%" alt="Profile Banner"/>
+</p>
+
 ###
 
 <p align="center">
