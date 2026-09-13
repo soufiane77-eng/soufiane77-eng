@@ -203,7 +203,6 @@
 
 ###
 
-<h2 align="center">Life is bigger than the box you put it in</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/soufiane77-eng/soufiane77-eng/master/assets/footer6.webp" width="100%" alt="Let's Connect"/>
