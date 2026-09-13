@@ -10,6 +10,10 @@
     width="160" height="160" style="border-radius: 50%;" alt="Soufiane Dev"/>
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,spring,nginx,java,bash" alt="Tech Stack"/>
+</p>
+
 ###
 
 <p align="center">
