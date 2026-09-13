@@ -159,23 +159,6 @@
 
 ###
 
-<h2 align="center">Statistics</h2>
-
----
-
-###
-
-<div data-importer="stats" align="center">
-  <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=soufiane77-eng&radius=16&theme=high-contrast&area=true&order=5" height="300" alt="activity-graph graph"
-  width="100%"
-/>
-</div>
-
----
-
-###
-
 <h2 align="center">Connect With Me</h2>
 
 ---
