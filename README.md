@@ -233,3 +233,26 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/soufiane77-eng/soufiane77-eng/master/assets/Footer1.webp" width="100%" alt="Banner"/>
 </p>
+
+---
+
+###
+
+<table align="center">
+<tr>
+<td width="50%" align="center">
+  <img src="https://raw.githubusercontent.com/soufiane77-eng/soufiane77-eng/master/assets/footer3.gif" width="100%" alt="Footer Animation 1"/>
+</td>
+<td width="50%" align="center">
+  <img src="https://raw.githubusercontent.com/soufiane77-eng/soufiane77-eng/master/assets/footer4.webp" width="100%" alt="Footer Animation 2"/>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+  <img src="https://raw.githubusercontent.com/soufiane77-eng/soufiane77-eng/master/assets/footer5.webp" width="100%" alt="Footer Animation 3"/>
+</td>
+<td width="50%" align="center">
+  <img src="https://raw.githubusercontent.com/soufiane77-eng/soufiane77-eng/master/assets/footer6.webp" width="100%" alt="Footer Animation 4"/>
+</td>
+</tr>
+</table>
