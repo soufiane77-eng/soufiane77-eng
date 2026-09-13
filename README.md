@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner2.webp" width="100%" alt="Banner"/>
+  <img src="https://raw.githubusercontent.com/soufiane77-eng/soufiane77-eng/master/assets/banner2.webp" width="100%" alt="Banner"/>
 </p>
 
 ###
@@ -231,5 +231,5 @@
 ###
 
 <p align="center">
-  <img src="./assets/Footer1.webp" width="100%" alt="Banner"/>
+  <img src="https://raw.githubusercontent.com/soufiane77-eng/soufiane77-eng/master/assets/Footer1.webp" width="100%" alt="Banner"/>
 </p>
