@@ -171,9 +171,18 @@
 <div data-importer="stats" align="left">
   <img width="48%" src="https://github-readme-stats.shion.dev/api?username=soufiane77-eng&theme=great-gatsby&show_icons=true&hide_border=true" />
   <img width="48%" src="https://streak-stats.demolab.com?user=soufiane77-eng&locale=en&mode=weekly&theme=highcontrast&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3&card_height=207" alt="streak graph" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soufiane77-eng&theme=github_dark&tzOffset=60" alt="Productive Time" />
-  &nbsp;&nbsp;
-  <img width="48%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=soufiane77-eng&theme=great-gatsby&hide_border=true&card_width=340&hide=PowerShell" />
+  <table align="center">
+  <tr>
+    <td align="center">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soufiane77-eng&theme=github_dark&tzOffset=60" alt="Productive Time" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" height="36"/><br/><br/>
+      <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white" height="36"/><br/><br/>
+      <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=white" height="36"/>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
