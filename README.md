@@ -57,6 +57,16 @@
 
 ###
 
+<h2 align="center">My Journey</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soufiane77-eng/soufiane77-eng/master/assets/footer3.gif" width="100%" alt="My Journey"/>
+</p>
+
+---
+
+###
+
 <h2 align="center">Technologies</h2>
 
 ---
@@ -142,6 +152,16 @@
 
 ###
 
+<h2 align="center">My Tech Stack</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soufiane77-eng/soufiane77-eng/master/assets/footer4.webp" width="100%" alt="My Tech Stack"/>
+</p>
+
+---
+
+###
+
 <h2 align="center">Analytics</h2>
 
 ---
@@ -159,6 +179,16 @@
 
 ###
 
+<h2 align="center">My GitHub Activity</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soufiane77-eng/soufiane77-eng/master/assets/footer5.webp" width="100%" alt="My GitHub Activity"/>
+</p>
+
+---
+
+###
+
 <h2 align="center">Connect With Me</h2>
 
 ---
@@ -167,6 +197,16 @@
 
 <p align="center">
 <a href="https://www.instagram.com/soufian_e007"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>&nbsp;<a href="https://www.tiktok.com/@midnightdev33"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>&nbsp;<a href="https://x.com/themidnightddev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>&nbsp;<a href="mailto:levicc04@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+---
+
+###
+
+<h2 align="center">Let's Connect</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soufiane77-eng/soufiane77-eng/master/assets/footer6.webp" width="100%" alt="Let's Connect"/>
 </p>
 
 ---
@@ -233,26 +273,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/soufiane77-eng/soufiane77-eng/master/assets/Footer1.webp" width="100%" alt="Banner"/>
 </p>
-
----
-
-###
-
-<table align="center">
-<tr>
-<td width="50%" align="center">
-  <img src="https://raw.githubusercontent.com/soufiane77-eng/soufiane77-eng/master/assets/footer3.gif" width="100%" alt="Footer Animation 1"/>
-</td>
-<td width="50%" align="center">
-  <img src="https://raw.githubusercontent.com/soufiane77-eng/soufiane77-eng/master/assets/footer4.webp" width="100%" alt="Footer Animation 2"/>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-  <img src="https://raw.githubusercontent.com/soufiane77-eng/soufiane77-eng/master/assets/footer5.webp" width="100%" alt="Footer Animation 3"/>
-</td>
-<td width="50%" align="center">
-  <img src="https://raw.githubusercontent.com/soufiane77-eng/soufiane77-eng/master/assets/footer6.webp" width="100%" alt="Footer Animation 4"/>
-</td>
-</tr>
-</table>
