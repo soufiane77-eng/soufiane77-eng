@@ -170,7 +170,7 @@
 
 <div data-importer="stats" align="left">
   <img width="48%" src="https://github-readme-stats.shion.dev/api?username=soufiane77-eng&theme=great-gatsby&show_icons=true&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=soufiane77-eng&locale=en&mode=weekly&theme=highcontrast&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" alt="streak graph" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=soufiane77-eng&locale=en&mode=weekly&theme=highcontrast&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3&card_height=207" alt="streak graph" />
   <img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soufiane77-eng&theme=github_dark&tzOffset=60" alt="Productive Time" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img width="44%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=soufiane77-eng&layout=compact&theme=great-gatsby&hide_border=true" />
