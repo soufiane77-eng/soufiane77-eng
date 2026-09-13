@@ -24,10 +24,6 @@
   <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/>
 </p>
 
-<p align="center">
-  <em>"Don't make your room a dockerization of yourself"</em> 😄
-</p>
-
 ###
 
 <p align="center">
@@ -278,15 +274,11 @@
     alt="Typing SVG"/>
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/soufiane77-eng?tab=repositories">
-        <img src="https://img.shields.io/badge/⭐%20Star-My%20Repositories-black?style=for-the-badge" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/soufiane77-eng?tab=repositories">
+    <img src="https://img.shields.io/badge/⭐%20Star-My%20Repositories-black?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
