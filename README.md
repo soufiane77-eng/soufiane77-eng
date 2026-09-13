@@ -179,7 +179,7 @@
 
 ###
 
-<h2 align="center">" Knowledge gives power; discipline gives direction "</h2>
+<h2 align="center"> Knowledge gives power; discipline gives direction </h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/soufiane77-eng/soufiane77-eng/master/assets/footer5.webp" width="100%" alt="My GitHub Activity"/>
