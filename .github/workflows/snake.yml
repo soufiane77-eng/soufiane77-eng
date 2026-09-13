@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: HiteshXG
+          github_user_name: soufiane77-eng
           outputs: |
             dist/snake-contribution-graph.svg?palette=github-light
             dist/snake-contribution-graph-dark.svg?palette=github-dark

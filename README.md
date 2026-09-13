@@ -1,33 +1,33 @@
-<!-- <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://i.pinimg.com/736x/24/d8/36/24d836e64f21aff60555d5f27de73e1b.jpg"  />
-</div> -->
-
 <p align="center">
-  <img src="./assets/banner2.png" width="100%" alt="Banner"/>
+  <img src="./assets/banner2.webp" width="100%" alt="Banner"/>
 </p>
 
 ###
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Hello,+I'm+Hitesh;Software+Engineer;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+Something+New;Building+Projects+That+Make+an+Impact"
+    src="https://cdn.jsdelivr.net/gh/soufiane77-eng/my-assets@master/images/profile-github.png"
+    width="160" height="160" style="border-radius: 50%;" alt="Soufiane Dev"/>
+</p>
+
+###
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Hello,+I'm+Soufiane+Dev;Software+Engineer;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+Something+New;Building+Projects+That+Make+an+Impact"
     alt="Typing SVG"/>
 </p>
 
 ---
 
-<!-- <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=I+'+m+Hitesh;Software+Developer;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+Something+New;Building+Projects+That+Make+an+Impact" alt="Typing SVG" />
-</div> -->
-
 ###
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/HiteshXG?style=for-the-badge&logo=github&labelColor=000000&color=000000" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/followers/soufiane77-eng?style=for-the-badge&logo=github&labelColor=000000&color=000000" alt="GitHub Followers" />
 
-  <img src="https://img.shields.io/github/stars/HiteshXG?affiliations=OWNER&style=for-the-badge&logo=github&labelColor=000000&color=000000" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/stars/soufiane77-eng?affiliations=OWNER&style=for-the-badge&logo=github&labelColor=000000&color=000000" alt="GitHub Stars" />
 
-  <img src="https://komarev.com/ghpvc/?username=HiteshXG&style=for-the-badge&color=000000&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=soufiane77-eng&style=for-the-badge&color=000000&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 ---
@@ -41,15 +41,11 @@
 
 <td width="65%" valign="top">
 
-<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
-<br/>
-
 <p>
-  Hello there! <em><b>I'm Hitesh Naresh Gavand</b></em>, a passionate Software Developer who enjoys transforming ideas into real-world applications.
-  I love building modern, scalable, and user-friendly software while continuously learning new technologies.
-  Currently, I'm working on exciting full-stack projects while expanding my knowledge of AI and Data Structures & Algorithms (DSA).
+  Hello there! <em><b>I'm Soufiane Dev</b></em>, a Full Stack Software Engineer passionate about building modern, scalable web applications.
+  I specialize in creating high-performance digital experiences, writing clean code, and contributing to open-source projects while supporting fellow developers.
+  I'm the creator of the <b>Game-Changer</b> tool, and I built a healthcare platform with a team of 4 in 48 hours during a University Hackathon 2026.
   I build projects every day to sharpen my skills, and my goal is to become a world-class Software Engineer.
-  I have a strong interest in web development, software engineering, artificial intelligence, UI/UX design, and backend development.
 </p>
 
 > *"Keep learning. Keep building. Keep improving."*
@@ -153,9 +149,9 @@
 ###
 
 <div data-importer="stats" align="left">
-  <img width="48%" src="https://github-readme-stats.shion.dev/api?username=HiteshXG&theme=great-gatsby&show_icons=true&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=HiteshXG&locale=en&mode=weekly&theme=highcontrast&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" alt="streak graph" />
-  <img width="45%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=HiteshXG&layout=compact&theme=great-gatsby&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.shion.dev/api?username=soufiane77-eng&theme=great-gatsby&show_icons=true&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=soufiane77-eng&locale=en&mode=weekly&theme=highcontrast&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" alt="streak graph" />
+  <img width="45%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=soufiane77-eng&layout=compact&theme=great-gatsby&hide_border=true" />
   
 </div>
 
@@ -171,7 +167,7 @@
 
 <div data-importer="stats" align="center">
   <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=HiteshXG&radius=16&theme=high-contrast&area=true&order=5" height="300" alt="activity-graph graph"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=soufiane77-eng&radius=16&theme=high-contrast&area=true&order=5" height="300" alt="activity-graph graph"
   width="100%"
 />
 </div>
@@ -187,7 +183,7 @@
 ###
 
 <p align="center">
-<a href="https://linkedin.com/in/hitesh-gavand"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;<a href="https://twitter.com/hnxvrtxx"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>&nbsp;<a href="https://instagram.com/hnxvrtxx"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>&nbsp;<a href="mailto:hiteshgavand0@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.instagram.com/soufian_e007"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>&nbsp;<a href="https://www.tiktok.com/@midnightdev33"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>&nbsp;<a href="https://x.com/themidnightddev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>&nbsp;<a href="mailto:levicc04@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
@@ -198,15 +194,15 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/HiteshXG/HiteshXG/snake-output/snake-contribution-graph-dark.svg">
+    srcset="https://raw.githubusercontent.com/soufiane77-eng/soufiane77-eng/snake-output/snake-contribution-graph-dark.svg">
 
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/HiteshXG/HiteshXG/snake-output/snake-contribution-graph.svg">
+    srcset="https://raw.githubusercontent.com/soufiane77-eng/soufiane77-eng/snake-output/snake-contribution-graph.svg">
 
   <img
     alt="Snake Contribution Graph"
-    src="https://raw.githubusercontent.com/HiteshXG/HiteshXG/snake-output/snake-contribution-graph-dark.svg">
+    src="https://raw.githubusercontent.com/soufiane77-eng/soufiane77-eng/snake-output/snake-contribution-graph-dark.svg">
 </picture>
 </p>
 
@@ -214,31 +210,19 @@
 
 ###
 
-<div align="center">
-  <img
-    width="100%" src="https://spotify-recently-played-readme.vercel.app/api?user=316dv3tta4rrzexxjikjuh7bf3wq&count=5&width=900&unique=true"
-    alt="Spotify Recently Played"
-  />
-</div>
-
----
-
-###
-
-
 <p align="center">
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/HiteshXG/HiteshXG/output/pacman-contribution-graph-dark.svg">
+    srcset="https://raw.githubusercontent.com/soufiane77-eng/soufiane77-eng/output/pacman-contribution-graph-dark.svg">
 
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/HiteshXG/HiteshXG/output/pacman-contribution-graph.svg">
+    srcset="https://raw.githubusercontent.com/soufiane77-eng/soufiane77-eng/output/pacman-contribution-graph.svg">
 
   <img
     alt="Pac-Man Contribution Graph"
-    src="https://raw.githubusercontent.com/HiteshXG/HiteshXG/output/pacman-contribution-graph-dark.svg">
+    src="https://raw.githubusercontent.com/soufiane77-eng/soufiane77-eng/output/pacman-contribution-graph-dark.svg">
 </picture>
 
 </p>
@@ -253,19 +237,16 @@
     alt="Typing SVG"/>
 </p>
 
-<!-- <p align="center">
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
+<p align="center">
+  <a href="https://github.com/soufiane77-eng?tab=repositories">
     <img src="https://img.shields.io/badge/⭐%20Star-My%20Repositories-black?style=for-the-badge" />
   </a>
-</p> -->
+</p>
 
 ---
 
 ###
 
 <p align="center">
-  <img src="./assets/Footer1.png" width="100%" alt="Banner"/>
+  <img src="./assets/Footer1.webp" width="100%" alt="Banner"/>
 </p>
-
----
-###
