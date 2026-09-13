@@ -6,7 +6,7 @@
 
 <p align="center">
   <img
-    src="https://cdn.jsdelivr.net/gh/soufiane77-eng/my-assets@master/images/profile-github.png"
+    src="https://cdn.jsdelivr.net/gh/soufiane77-eng/my-assets@master/images/profile-github.png?v=2"
     width="160" height="160" style="border-radius: 50%;" alt="Soufiane Dev"/>
 </p>
 
