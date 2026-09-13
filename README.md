@@ -10,8 +10,14 @@
     width="160" height="160" style="border-radius: 50%;" alt="Soufiane Dev"/>
 </p>
 
+<br/>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,spring,nginx,java,bash" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash"/>
 </p>
 
 ###
