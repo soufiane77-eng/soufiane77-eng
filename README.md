@@ -57,7 +57,7 @@
 
 ###
 
-<h2 align="center"><< Mastery begins where the need for recognition ends >></h2>
+<h2 align="center">< Mastery begins where the need for recognition ends ></h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/soufiane77-eng/soufiane77-eng/master/assets/footer3.gif" width="100%" alt="My Journey"/>
