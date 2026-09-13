@@ -13,11 +13,15 @@
 <br/>
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript"/>&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/>&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring"/>&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx"/>&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash"/>
+  <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/>
 </p>
 
 ###
