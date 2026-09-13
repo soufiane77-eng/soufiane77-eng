@@ -57,7 +57,7 @@
 
 ###
 
-<h2 align="center">My Journey</h2>
+<h2 align="center">" Mastery begins where the need for recognition ends "</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/soufiane77-eng/soufiane77-eng/master/assets/footer3.gif" width="100%" alt="My Journey"/>
@@ -152,7 +152,7 @@
 
 ###
 
-<h2 align="center">My Tech Stack</h2>
+<h2 align="center">" Build quietly. Let the work become the evidence "</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/soufiane77-eng/soufiane77-eng/master/assets/footer4.webp" width="100%" alt="My Tech Stack"/>
@@ -179,7 +179,7 @@
 
 ###
 
-<h2 align="center">My GitHub Activity</h2>
+<h2 align="center">" Knowledge gives power; discipline gives direction "</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/soufiane77-eng/soufiane77-eng/master/assets/footer5.webp" width="100%" alt="My GitHub Activity"/>
@@ -203,7 +203,7 @@
 
 ###
 
-<h2 align="center">Let's Connect</h2>
+<h2 align="center">Life is bigger than the box you put it in</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/soufiane77-eng/soufiane77-eng/master/assets/footer6.webp" width="100%" alt="Let's Connect"/>
